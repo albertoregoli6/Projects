@@ -77,11 +77,3 @@ Implementazione Matlab-Simulink di filtro EKF e filtro Unscented per la stima de
 
 **Software:** Matlab, Simulink  
 **File:** Stima_AGV
-
-
-File: Controllo_AGV
-
-# Stima dinamica dello stato di un veicolo a guida autonoma
-Implementazione Matlab-Simulink di filtro EKF e filtro Unscented per la stima dello stato di un AGV in presenza di disturbi durante l’inseguimento di traiettorie.
-Software: Matlab, Simulink
-File: Stima_AGV
