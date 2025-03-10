@@ -1,5 +1,5 @@
 # Projects
-In the repository, there are the reports of my university projects.
+In questa repository, vi sono tutti i miei progetti universitari.
 
 ## Progetti_meccanica
 
